@@ -34,3 +34,11 @@ The output includes `.m3u8` playlists and segment files ready for web playback.
 
 2. **Mount your Google Drive**  
    The notebook will create:
+
+3. **Upload your `.mp4` file** to the `input_videos` folder.
+
+4. **Run the conversion cell**  
+Watch live FFmpeg progress logs.
+
+5. **Done!**  
+The HLS output (with master playlist) will appear in:
