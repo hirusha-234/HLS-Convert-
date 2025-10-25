@@ -30,7 +30,7 @@ The output includes `.m3u8` playlists and segment files ready for web playback.
 
 1. **Open the notebook in Google Colab:**
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<yourusername>/ffmpeg-hls-colab/blob/main/colab_notebook.ipynb)
+   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<yourusername>/ffmpeg-hls-colab/blob/main/colab_notebook.ipynb](https://colab.research.google.com/github/hirusha-234/HLS-Convert-/blob/main/HLS_Conver.ipynb))
 
 2. **Mount your Google Drive**  
    The notebook will create:
